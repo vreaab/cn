@@ -1,0 +1,7 @@
+{
+  "name": "@vreaab/cn",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
